@@ -1,0 +1,16 @@
+[
+  { "id": 1, "image": "/assets/cards/card1.jpg", "name": "Kung Fu Panda" },
+  { "id": 2, "image": "/assets/cards/card2.jpg", "name": "Squid Game" },
+  { "id": 3, "image": "/assets/cards/card3.jpg", "name": "Squid Challenge" },
+  { "id": 4, "image": "/assets/cards/card4.jpg", "name": "Jawan" },
+  { "id": 5, "image": "/assets/cards/card5.jpg", "name": "The Ghost" },
+  { "id": 6, "image": "/assets/cards/card6.jpg", "name": "Lucifer" },
+  { "id": 7, "image": "/assets/cards/card7.jpg", "name": "The Railway MEN" },
+  { "id": 8, "image": "/assets/cards/card8.jpg", "name": "Young Sheldon" },
+  { "id": 9, "image": "/assets/cards/card9.jpg", "name": "Sacred Games" },
+  { "id": 10, "image": "/assets/cards/card10.jpg", "name": "Adipurush" },
+  { "id": 11, "image": "/assets/cards/card11.jpg", "name": "Sukhee" },
+  { "id": 12, "image": "/assets/cards/card12.jpg", "name": "Mission Ganj" },
+  { "id": 13, "image": "/assets/cards/card13.jpg", "name": "Leo" },
+  { "id": 14, "image": "/assets/cards/card14.jpg", "name": "All of Us Are Dead" }
+]
